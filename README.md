@@ -1,5 +1,5 @@
 # README - portfolio list
 
-1. maskshop.zip : 마스크 판매 쇼핑몰. Servlet&JSP 사용
+1. maskshop.zip : 마스크 판매 쇼핑몰 사이트. Servlet&JSP 사용
 2. Hotel.zip : 호텔 예약 사이트. Spring 4 사용
-3. cookingTalking : 레시피 공유하는 사이트. Spring Boot 
+3. FinalProj : 레시피 공유하는 사이트. Spring Boot 사용
